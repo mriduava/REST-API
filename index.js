@@ -18,8 +18,8 @@ app.get('/', function(req, res){
 
 app.use('/api/friends', friendRoutes);
 
-
-app.listen(3000, function(){
+let port = process.env.PORT;
+app.listen(port || 3000, function(){
     console.log(`Friends server is running...`);    
 })
 
