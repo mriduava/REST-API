@@ -1,6 +1,8 @@
 let express = require('express'),
     router = express.Router();
 
+//let db = require('../models');
+
 let helpers = require('../helpers/friends');
 
 router.route('/')

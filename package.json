@@ -1,5 +1,5 @@
 {
-  "name": "friends_api",
+  "name": "friends-api",
   "version": "1.0.0",
   "description": "Friends API",
   "main": "index.js",

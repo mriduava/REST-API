@@ -22,3 +22,4 @@ app.use('/api/friends', friendRoutes);
 app.listen(3000, function(){
     console.log(`Friends server is running...`);    
 })
+
