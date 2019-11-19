@@ -7,8 +7,10 @@
 > @since : NOVEMBER 2019<br>
 
 **Look the demo, and if you like give a star on GitHub**
-![](/screenshot/friends-api.png)
 >API LINK: https://mridufriends.herokuapp.com/api/friends<br>
+
+![](/screenshot/friends-api.png)
+
 
 ## REQUIREMENTS
 * Node JS
