@@ -12,7 +12,7 @@ app.get('/', function(req, res){
     res.json({
         friends: [
         {name: 'Maruf Ahmed', country: 'Sweden'}, 
-        {name: 'Deepthy', country: 'India'}
+        {name: 'Deepthy Nair', country: 'India'}
     ]})
 });
 
