@@ -11,8 +11,8 @@ app.get('/', function(req, res){
     //res.send('Hi Friends!');
     res.json({
         friends: [
-        {name: 'Maruf Ahmed', country: 'Sweden'}, 
-        {name: 'Deepthy Nair', country: 'India'}
+        {name: 'Maruf Ahmed', country: 'Bangladesh'}, 
+        {name: 'Rabeya Khatun', country: 'Bangladesh'}
     ]})
 });
 
